@@ -20,6 +20,8 @@
 🛠️ Tech Stack:
 ![Tech Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=younesselamli&layout=compact&theme=dark)
 
+📊 GitHub Activity:
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=github)
 
 Feel free to explore my repositories below 👇
 

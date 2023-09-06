@@ -18,8 +18,7 @@
 
 
 🛠️ Tech Stack:
-![Tech Stack] 
-https://github-readme-stats.vercel.app/api/top-langs/?username=younesselamli&layout=compact&theme=dark
+![Tech Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=younesselamli&layout=compact&theme=dark)
 
 
 Feel free to explore my repositories below 👇

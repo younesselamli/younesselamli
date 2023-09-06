@@ -13,7 +13,7 @@
 - Check out my latest game projects on [Play Store] (https://play.google.com/store/apps/dev?id=6771700284682508824);
 
 📈 GitHub Stats:
-![GitHub Stats] (https://github-readme-stats.vercel.app/api?username=younesselamli&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=younesselamli&show_icons=true&theme=dark)
 
 
 

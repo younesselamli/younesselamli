@@ -7,7 +7,7 @@
 
 📫 Get in touch:
 - Email: elamliyouness@gmail.com
-- Portfolio: www.elamli.com (soon...);
+- Portfolio: [www.elamli.com](https://younesselamli.github.io/elamli.com/) (soon...);
 - Twitter: https://twitter.com/YounesElamili
 
 🚀 My Work:
